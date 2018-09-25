@@ -1,0 +1,45 @@
+{
+  "listName" : "Variety of fruits",
+  "included" : [
+    {
+      "name" : "apelsin",
+      "price" : 2.35,
+      "country" : [
+        "Spain",
+        "South"
+      ]
+    },
+   {
+      "name" : "ananas",
+      "price" : 3.4,
+      "country" : [
+        "Italy",
+        "East"
+      ]
+    },
+	 {
+      "name" : "kivi",
+      "price" : 2.15,
+      "country" : [
+        "India",
+        "North"
+      ]
+    },
+    {
+      "name" : "yabloko",
+      "price" : 1.11,
+      "country" : [
+        "Russia",
+        "Everywhere"
+      ]
+    },
+	{
+      "name" : "durian",
+      "price" : 14.64,
+      "country" : [
+        "China",
+        "Midle"
+      ]
+    }
+  ]
+}

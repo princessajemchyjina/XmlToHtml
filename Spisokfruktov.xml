@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Perevod1.xsl"?>
+<base>
+	<fruit>
+		<name>apelsin</name>
+		<price>2.35</price>
+		<country>Spain</country>
+	</fruit>
+	<fruit>
+		<name>ananas</name>
+		<price>3.4</price>
+		<country>Italy</country>
+	</fruit>
+	<fruit>
+		<name>kivi</name>
+		<price>2.15</price>
+		<country>India</country>
+	</fruit>
+	<fruit>
+		<name>yabloko</name>
+		<price>1.11</price>
+		<country>Russia</country>
+	</fruit>
+	<fruit>
+		<name>durian</name>
+		<price>14.64</price>
+		<country>China</country>
+	</fruit>
+</base>
